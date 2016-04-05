@@ -1,7 +1,7 @@
 ## 对项目频繁用到的组件的抽取    
 
 
-### 基于FIS3-Smarty的React+ES6 开发  
+### 基于FIS3-Smarty的React+ES6 开发，UI基于semantic-ui   
 安装node   
 安装fis3  
 
